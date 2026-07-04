@@ -90,4 +90,4 @@ O painel final foi estruturado estrategicamente nas seguintes seções:
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/ramonesreal/Projeto-Analise-de-Dados-Brazilian-E-Commerce-OLIST.git
