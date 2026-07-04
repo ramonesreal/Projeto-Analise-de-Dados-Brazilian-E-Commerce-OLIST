@@ -88,6 +88,20 @@ O painel final foi estruturado estrategicamente nas seguintes seções:
 
 ## 🚀 Como Executar o Projeto
 
-1. Clone o repositório:
+> ⚠️ **Nota sobre os dados:** Devido ao limite de tamanho de arquivos do GitHub, as bases de dados brutas e tratadas em formato `.csv` não estão inclusas neste repositório.
+
+### 1. Preparação dos Dados
+1. Baixe o dataset original diretamente no Kaggle: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+2. Clone o repositório:
    ```bash
    git clone https://github.com/ramonesreal/Projeto-Analise-de-Dados-Brazilian-E-Commerce-OLIST.git
+
+3. Aloque os arquivos baixados do Kaggle em uma pasta local e execute o Jupyter Notebook localizado em `/notebooks` para processar e gerar o arquivo consolidado olist_consolidado_clean.csv.
+
+### 2. Carregando no Power BI
+Este projeto foi estruturado utilizando **Parâmetros de Fonte de Dados**, o que significa que você não precisa alterar nenhuma linha de código do Power Query para rodá-lo localmente:
+
+1. Abra o arquivo `.pbix` localizado na pasta `/dashboards`.
+2. Na página inicial do Power BI, clique na seta abaixo de **Transformar Dados** (Transform Data) e selecione **Editar Parâmetros** (Edit Parameters).
+3. Na caixa de texto que aparecer para o parâmetro `CaminhoDaBaseDeDados`, cole o caminho completo da pasta no seu computador onde o arquivo `olist_consolidado_clean.csv` foi gerado (exemplo: `C:\Projetos\Olist\data\`). *Nota: Certifique-se de incluir a barra invertida (`\`) no final do caminho.*
+4. Clique em **OK** e depois em **Aplicar Alterações** (Apply Changes) no banner superior. O dashboard carregará os dados locais automaticamente.
