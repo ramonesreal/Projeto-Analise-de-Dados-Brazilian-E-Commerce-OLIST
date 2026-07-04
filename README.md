@@ -105,3 +105,11 @@ Este projeto foi estruturado utilizando **Parâmetros de Fonte de Dados**, o que
 2. Na página inicial do Power BI, clique na seta abaixo de **Transformar Dados** (Transform Data) e selecione **Editar Parâmetros** (Edit Parameters).
 3. Na caixa de texto que aparecer para o parâmetro `CaminhoDaBaseDeDados`, cole o caminho completo da pasta no seu computador onde o arquivo `olist_consolidado_clean.csv` foi gerado (exemplo: `C:\Projetos\Olist\data\`). *Nota: Certifique-se de incluir a barra invertida (`\`) no final do caminho.*
 4. Clique em **OK** e depois em **Aplicar Alterações** (Apply Changes) no banner superior. O dashboard carregará os dados locais automaticamente.
+
+## 📸 Demonstração do Projeto
+
+### 🐍 Processamento e Engenharia de Dados (Jupyter Notebook)
+![Tratamento em Python](./img/print_notebook.png)
+
+### 🖥️ Dashboard Interativo (Power BI)
+![Dashboard Olist](./img/print_dashboard.png)
