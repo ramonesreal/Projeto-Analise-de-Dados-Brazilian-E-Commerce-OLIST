@@ -114,6 +114,16 @@ Este projeto foi estruturado utilizando **Parâmetros de Fonte de Dados**, o que
 ### 🖥️ Dashboard Interativo (Power BI)
 ![Dashboard Olist](./img/print_dashboard.png)
 
+## 🛠️ Tecnologias Utilizadas
+
+* 📊 **Microsoft Excel:** Mapeamento inicial do banco de dados e levantamento de hipóteses.
+* 🐍 **Python & Pandas:** Limpeza, manipulação e engenharia de atributos dos dados.
+* 📈 **Microsoft Power BI:** Modelagem de dados (Star Schema) e criação do dashboard interativo.
+* 📓 **Notion:** Organização do cronograma de execução e gerenciamento de etapas.
+* 🤖 **Gemini:** Co-piloto no auxílio de insights e otimização de código.
+* 📝 **Markdown:** Documentação completa do repositório.
+
 ## 👨‍💻 Desenvolvido por:
+
 * **Ramon Lima**
-* 🔗 **Meu LinkedIn:** https://www.linkedin.com/in/ramon-lima-251835415
+* 🔗 **Meu LinkedIn:** [Ramon Lima](https://www.linkedin.com/in/ramon-lima-251835415)
