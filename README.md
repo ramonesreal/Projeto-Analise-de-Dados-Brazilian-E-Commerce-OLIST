@@ -117,9 +117,12 @@ Este projeto foi estruturado utilizando **Parâmetros de Fonte de Dados**, o que
 ## 🛠️ Tecnologias Utilizadas
 
 * 📊 **Microsoft Excel:** Mapeamento inicial do banco de dados e levantamento de hipóteses.
-* 🐍 **Python & Pandas:** Limpeza, manipulação e engenharia de atributos dos dados.
-* 📈 **Microsoft Power BI:** Modelagem de dados (Star Schema) e criação do dashboard interativo.
-* 📓 **Notion:** Organização do cronograma de execução e gerenciamento de etapas.
+* 🐍 **Python:** Linguagem base utilizada para todo o desenvolvimento analítico do projeto.
+* 📓 **JupyterLab:** Ambiente de desenvolvimento utilizado para escrever, testar e organizar os códigos em Python.
+* 🐼 **Pandas:** Biblioteca utilizada para a manipulação, limpeza e engenharia de atributos dos dados.
+* 📈 **Microsoft Power BI:** Modelagem de dados (Star Schema), Power Query e criação do dashboard interativo.
+* 🐙 **Git & GitHub:** Controle de versão e hospedagem do repositório do projeto.
+* 📋 **Notion:** Organização do cronograma de execução e gerenciamento de etapas.
 * 🤖 **Gemini:** Co-piloto no auxílio de insights e otimização de código.
 * 📝 **Markdown:** Documentação completa do repositório.
 
