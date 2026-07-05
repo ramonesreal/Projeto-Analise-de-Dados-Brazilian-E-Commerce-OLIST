@@ -113,3 +113,7 @@ Este projeto foi estruturado utilizando **Parâmetros de Fonte de Dados**, o que
 
 ### 🖥️ Dashboard Interativo (Power BI)
 ![Dashboard Olist](./img/print_dashboard.png)
+
+## 👨‍💻 Desenvolvido por:
+* **Ramon Lima**
+* 🔗 **Meu LinkedIn:** https://www.linkedin.com/in/ramon-lima-251835415
