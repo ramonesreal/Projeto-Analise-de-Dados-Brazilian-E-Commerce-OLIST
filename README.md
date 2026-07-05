@@ -1,4 +1,4 @@
-# Análise de Negócios: Comportamento de Vendas & Eficiência Logística no E-Commerce (Olist)
+# 📊 Análise de Negócios: Comportamento de Vendas & Eficiência Logística no E-Commerce (Olist)
 
 ## 📝 Descrição do Projeto
 
